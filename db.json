@@ -3,140 +3,120 @@
     "name": "Rick Sanchez",
     "status": "Alive",
     "species": "Human",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/1"
+    "gender": "Male"
   },
   {
     "name": "Morty Smith",
     "status": "Alive",
     "species": "Human",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/2"
+    "gender": "Male"
   },
   {
     "name": "Summer Smith",
     "status": "Alive",
     "species": "Human",
-    "gender": "Female",
-    "url": "https://rickandmortyapi.com/api/character/3"
+    "gender": "Female"
   },
   {
     "name": "Beth Smith",
     "status": "Alive",
     "species": "Human",
-    "gender": "Female",
-    "url": "https://rickandmortyapi.com/api/character/4"
+    "gender": "Female"
   },
   {
     "name": "Jerry Smith",
     "status": "Alive",
     "species": "Human",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/5"
+    "gender": "Male"
   },
   {
     "name": "Abadango Cluster Princess",
     "status": "Alive",
     "species": "Alien",
-    "gender": "Female",
-    "url": "https://rickandmortyapi.com/api/character/6"
+    "gender": "Female"
   },
   {
     "name": "Abradolf Lincler",
     "status": "unknown",
     "species": "Human",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/7"
+    "gender": "Male"
   },
   {
     "name": "Adjudicator Rick",
     "status": "Dead",
     "species": "Human",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/8"
+    "gender": "Male"
   },
   {
     "name": "Agency Director",
     "status": "Dead",
     "species": "Human",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/9"
+    "gender": "Male"
   },
   {
     "name": "Alan Rails",
     "status": "Dead",
     "species": "Human",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/10"
+    "gender": "Male"
   },
   {
     "name": "Albert Einstein",
     "status": "Dead",
     "species": "Human",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/11"
+    "gender": "Male"
   },
   {
     "name": "Alexander",
     "status": "Dead",
     "species": "Human",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/12"
+    "gender": "Male"
   },
   {
     "name": "Alien Googah",
     "status": "unknown",
     "species": "Alien",
-    "gender": "unknown",
-    "url": "https://rickandmortyapi.com/api/character/13"
+    "gender": "unknown"
   },
   {
     "name": "Alien Morty",
     "status": "unknown",
     "species": "Alien",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/14"
+    "gender": "Male"
   },
   {
     "name": "Alien Rick",
     "status": "unknown",
     "species": "Alien",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/15"
+    "gender": "Male"
   },
   {
     "name": "Amish Cyborg",
     "status": "Dead",
     "species": "Alien",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/16"
+    "gender": "Male"
   },
   {
     "name": "Annie",
     "status": "Alive",
     "species": "Human",
-    "gender": "Female",
-    "url": "https://rickandmortyapi.com/api/character/17"
+    "gender": "Female"
   },
   {
     "name": "Antenna Morty",
     "status": "Alive",
     "species": "Human",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/18"
+    "gender": "Male"
   },
   {
     "name": "Antenna Rick",
     "status": "unknown",
     "species": "Human",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/19"
+    "gender": "Male"
   },
   {
     "name": "Ants in my Eyes Johnson",
     "status": "unknown",
     "species": "Human",
-    "gender": "Male",
-    "url": "https://rickandmortyapi.com/api/character/20"
+    "gender": "Male"
   }
 ]
