@@ -1,122 +1,124 @@
-[
-  {
-    "name": "Rick Sanchez",
-    "status": "Alive",
-    "species": "Human",
-    "gender": "Male"
-  },
-  {
-    "name": "Morty Smith",
-    "status": "Alive",
-    "species": "Human",
-    "gender": "Male"
-  },
-  {
-    "name": "Summer Smith",
-    "status": "Alive",
-    "species": "Human",
-    "gender": "Female"
-  },
-  {
-    "name": "Beth Smith",
-    "status": "Alive",
-    "species": "Human",
-    "gender": "Female"
-  },
-  {
-    "name": "Jerry Smith",
-    "status": "Alive",
-    "species": "Human",
-    "gender": "Male"
-  },
-  {
-    "name": "Abadango Cluster Princess",
-    "status": "Alive",
-    "species": "Alien",
-    "gender": "Female"
-  },
-  {
-    "name": "Abradolf Lincler",
-    "status": "unknown",
-    "species": "Human",
-    "gender": "Male"
-  },
-  {
-    "name": "Adjudicator Rick",
-    "status": "Dead",
-    "species": "Human",
-    "gender": "Male"
-  },
-  {
-    "name": "Agency Director",
-    "status": "Dead",
-    "species": "Human",
-    "gender": "Male"
-  },
-  {
-    "name": "Alan Rails",
-    "status": "Dead",
-    "species": "Human",
-    "gender": "Male"
-  },
-  {
-    "name": "Albert Einstein",
-    "status": "Dead",
-    "species": "Human",
-    "gender": "Male"
-  },
-  {
-    "name": "Alexander",
-    "status": "Dead",
-    "species": "Human",
-    "gender": "Male"
-  },
-  {
-    "name": "Alien Googah",
-    "status": "unknown",
-    "species": "Alien",
-    "gender": "unknown"
-  },
-  {
-    "name": "Alien Morty",
-    "status": "unknown",
-    "species": "Alien",
-    "gender": "Male"
-  },
-  {
-    "name": "Alien Rick",
-    "status": "unknown",
-    "species": "Alien",
-    "gender": "Male"
-  },
-  {
-    "name": "Amish Cyborg",
-    "status": "Dead",
-    "species": "Alien",
-    "gender": "Male"
-  },
-  {
-    "name": "Annie",
-    "status": "Alive",
-    "species": "Human",
-    "gender": "Female"
-  },
-  {
-    "name": "Antenna Morty",
-    "status": "Alive",
-    "species": "Human",
-    "gender": "Male"
-  },
-  {
-    "name": "Antenna Rick",
-    "status": "unknown",
-    "species": "Human",
-    "gender": "Male"
-  },
-  {
-    "name": "Ants in my Eyes Johnson",
-    "status": "unknown",
-    "species": "Human",
-    "gender": "Male"
-  }
-]
+{
+  "characters": [
+    {
+      "name": "Rick Sanchez",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male"
+    },
+    {
+      "name": "Morty Smith",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male"
+    },
+    {
+      "name": "Summer Smith",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Female"
+    },
+    {
+      "name": "Beth Smith",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Female"
+    },
+    {
+      "name": "Jerry Smith",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male"
+    },
+    {
+      "name": "Abadango Cluster Princess",
+      "status": "Alive",
+      "species": "Alien",
+      "gender": "Female"
+    },
+    {
+      "name": "Abradolf Lincler",
+      "status": "unknown",
+      "species": "Human",
+      "gender": "Male"
+    },
+    {
+      "name": "Adjudicator Rick",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male"
+    },
+    {
+      "name": "Agency Director",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male"
+    },
+    {
+      "name": "Alan Rails",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male"
+    },
+    {
+      "name": "Albert Einstein",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male"
+    },
+    {
+      "name": "Alexander",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male"
+    },
+    {
+      "name": "Alien Googah",
+      "status": "unknown",
+      "species": "Alien",
+      "gender": "unknown"
+    },
+    {
+      "name": "Alien Morty",
+      "status": "unknown",
+      "species": "Alien",
+      "gender": "Male"
+    },
+    {
+      "name": "Alien Rick",
+      "status": "unknown",
+      "species": "Alien",
+      "gender": "Male"
+    },
+    {
+      "name": "Amish Cyborg",
+      "status": "Dead",
+      "species": "Alien",
+      "gender": "Male"
+    },
+    {
+      "name": "Annie",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Female"
+    },
+    {
+      "name": "Antenna Morty",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male"
+    },
+    {
+      "name": "Antenna Rick",
+      "status": "unknown",
+      "species": "Human",
+      "gender": "Male"
+    },
+    {
+      "name": "Ants in my Eyes Johnson",
+      "status": "unknown",
+      "species": "Human",
+      "gender": "Male"
+    }
+  ]
+}
