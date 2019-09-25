@@ -1,124 +1,154 @@
 {
-  "characters": [
+  "list": [
     {
-      "name": "Rick Sanchez",
-      "status": "Alive",
-      "species": "Human",
-      "gender": "Male"
+      "name": "Heathrow",
+      "city": "London",
+      "country": "United Kingdom",
+      "iata_code": "LHR"
     },
     {
-      "name": "Morty Smith",
-      "status": "Alive",
-      "species": "Human",
-      "gender": "Male"
+      "name": "Charles De Gaulle",
+      "city": "Paris",
+      "country": "France",
+      "iata_code": "CDG"
     },
     {
-      "name": "Summer Smith",
-      "status": "Alive",
-      "species": "Human",
-      "gender": "Female"
+      "name": "Los Angeles Intl",
+      "city": "Los Angeles",
+      "country": "United States",
+      "iata_code": "LAX"
     },
     {
-      "name": "Beth Smith",
-      "status": "Alive",
-      "species": "Human",
-      "gender": "Female"
+      "name": "Frankfurt Main",
+      "city": "Frankfurt",
+      "country": "Germany",
+      "iata_code": "FRA"
     },
     {
-      "name": "Jerry Smith",
-      "status": "Alive",
-      "species": "Human",
-      "gender": "Male"
+      "name": "John F Kennedy Intl",
+      "city": "New York",
+      "country": "United States",
+      "iata_code": "JFK"
     },
     {
-      "name": "Abadango Cluster Princess",
-      "status": "Alive",
-      "species": "Alien",
-      "gender": "Female"
+      "name": "Schiphol",
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "iata_code": "AMS"
     },
     {
-      "name": "Abradolf Lincler",
-      "status": "unknown",
-      "species": "Human",
-      "gender": "Male"
+      "name": "Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "iata_code": "BCN"
     },
     {
-      "name": "Adjudicator Rick",
-      "status": "Dead",
-      "species": "Human",
-      "gender": "Male"
+      "name": "Denver Intl",
+      "city": "Denver",
+      "country": "United States",
+      "iata_code": "DEN"
     },
     {
-      "name": "Agency Director",
-      "status": "Dead",
-      "species": "Human",
-      "gender": "Male"
+      "name": "Miami Intl",
+      "city": "Miami",
+      "country": "United States",
+      "iata_code": "MIA"
     },
     {
-      "name": "Alan Rails",
-      "status": "Dead",
-      "species": "Human",
-      "gender": "Male"
+      "name": "Hong Kong Intl",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "iata_code": "HKG"
     },
     {
-      "name": "Albert Einstein",
-      "status": "Dead",
-      "species": "Human",
-      "gender": "Male"
+      "name": "Dubai Intl",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "iata_code": "DXB"
     },
     {
-      "name": "Alexander",
-      "status": "Dead",
-      "species": "Human",
-      "gender": "Male"
+      "name": "Gatwick",
+      "city": "London",
+      "country": "United Kingdom",
+      "iata_code": "LGW"
     },
     {
-      "name": "Alien Googah",
-      "status": "unknown",
-      "species": "Alien",
-      "gender": "unknown"
+      "name": "Barajas",
+      "city": "Madrid",
+      "country": "Spain",
+      "iata_code": "MAD"
     },
     {
-      "name": "Alien Morty",
-      "status": "unknown",
-      "species": "Alien",
-      "gender": "Male"
+      "name": "Domododevo",
+      "city": "Moscow",
+      "country": "Russia",
+      "iata_code": "DME"
     },
     {
-      "name": "Alien Rick",
-      "status": "unknown",
-      "species": "Alien",
-      "gender": "Male"
+      "name": "Shuangliu",
+      "city": "Chengdu",
+      "country": "China",
+      "iata_code": "CTU"
     },
     {
-      "name": "Amish Cyborg",
-      "status": "Dead",
-      "species": "Alien",
-      "gender": "Male"
+      "name": "Lester B Pearson Intl",
+      "city": "Toronto",
+      "country": "Canada",
+      "iata_code": "YYZ"
     },
     {
-      "name": "Annie",
-      "status": "Alive",
-      "species": "Human",
-      "gender": "Female"
+      "name": "Brussels Natl",
+      "city": "Brussels",
+      "country": "Belgium",
+      "iata_code": "BRU"
     },
     {
-      "name": "Antenna Morty",
-      "status": "Alive",
-      "species": "Human",
-      "gender": "Male"
+      "name": "Manchester",
+      "city": "Manchester",
+      "country": "United Kingdom",
+      "iata_code": "MAN"
     },
     {
-      "name": "Antenna Rick",
-      "status": "unknown",
-      "species": "Human",
-      "gender": "Male"
+      "name": "Narita Intl",
+      "city": "Tokyo",
+      "country": "Japan",
+      "iata_code": "NRT"
     },
     {
-      "name": "Ants in my Eyes Johnson",
-      "status": "unknown",
-      "species": "Human",
-      "gender": "Male"
+      "name": "Dusseldorf",
+      "city": "Duesseldorf",
+      "country": "Germany",
+      "iata_code": "DUS"
+    },
+    {
+      "name": "Indira Gandhi Intl",
+      "city": "Delhi",
+      "country": "India",
+      "iata_code": "DEL"
+    },
+    {
+      "name": "San Francisco Intl",
+      "city": "San Francisco",
+      "country": "United States",
+      "iata_code": "SFO"
+    },
+    {
+      "name": "Zurich",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "iata_code": "ZRH"
+    },
+    {
+      "name": "George Bush Intercontinental",
+      "city": "Houston",
+      "country": "United States",
+      "iata_code": "IAH"
+    },
+    {
+      "name": "Licenciado Benito Juarez Intl",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "iata_code": "MEX"
     }
   ]
 }
