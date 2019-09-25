@@ -13,7 +13,7 @@
       "iata_code": "CDG"
     },
     {
-      "name": "Los Angeles Intl",
+      "name": "Los Angeles International",
       "city": "Los Angeles",
       "country": "United States",
       "iata_code": "LAX"
@@ -25,7 +25,7 @@
       "iata_code": "FRA"
     },
     {
-      "name": "John F Kennedy Intl",
+      "name": "John F. Kennedy International",
       "city": "New York",
       "country": "United States",
       "iata_code": "JFK"
@@ -43,25 +43,25 @@
       "iata_code": "BCN"
     },
     {
-      "name": "Denver Intl",
+      "name": "Denver International",
       "city": "Denver",
       "country": "United States",
       "iata_code": "DEN"
     },
     {
-      "name": "Miami Intl",
+      "name": "Miami International",
       "city": "Miami",
       "country": "United States",
       "iata_code": "MIA"
     },
     {
-      "name": "Hong Kong Intl",
+      "name": "Hong Kong International",
       "city": "Hong Kong",
       "country": "Hong Kong",
       "iata_code": "HKG"
     },
     {
-      "name": "Dubai Intl",
+      "name": "Dubai International",
       "city": "Dubai",
       "country": "United Arab Emirates",
       "iata_code": "DXB"
@@ -91,13 +91,13 @@
       "iata_code": "CTU"
     },
     {
-      "name": "Lester B Pearson Intl",
+      "name": "Lester B Pearson International",
       "city": "Toronto",
       "country": "Canada",
       "iata_code": "YYZ"
     },
     {
-      "name": "Brussels Natl",
+      "name": "Brussels National",
       "city": "Brussels",
       "country": "Belgium",
       "iata_code": "BRU"
@@ -109,7 +109,7 @@
       "iata_code": "MAN"
     },
     {
-      "name": "Narita Intl",
+      "name": "Narita International",
       "city": "Tokyo",
       "country": "Japan",
       "iata_code": "NRT"
@@ -121,13 +121,13 @@
       "iata_code": "DUS"
     },
     {
-      "name": "Indira Gandhi Intl",
+      "name": "Indira Gandhi International",
       "city": "Delhi",
       "country": "India",
       "iata_code": "DEL"
     },
     {
-      "name": "San Francisco Intl",
+      "name": "San Francisco International",
       "city": "San Francisco",
       "country": "United States",
       "iata_code": "SFO"
@@ -145,7 +145,7 @@
       "iata_code": "IAH"
     },
     {
-      "name": "Licenciado Benito Juarez Intl",
+      "name": "Licenciado Benito Juarez International",
       "city": "Mexico City",
       "country": "Mexico",
       "iata_code": "MEX"
